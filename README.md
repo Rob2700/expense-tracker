@@ -29,3 +29,6 @@ An interactive expense tracking dashboard built with **Python, Streamlit, SQLite
  bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 🌐 Live Demo
+https://expense-tracker-pnol2phxhqrlsvigi8crsg.streamlit.app
